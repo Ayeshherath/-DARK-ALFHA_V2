@@ -1,5 +1,6 @@
 {
-   "name":"DARK ALFHA",
+   "name":"𝚂𝙾𝚄𝙻 𝙺𝙸𝙻𝙻𝙴𝚁♠️
+",
    "description":"A WhatsApp Bot With Multi Device Supported",
    "keywords":[
       "bot",
@@ -7,15 +8,15 @@
    ],
    "website":"https://deep-eagle.github.io/Deep-Eagle",
    "repository":"https://github.com/Deep-Eagle/DARK-ALFHA_V2.git",
-   "logo":"https://i.ibb.co/SVbyxZG/1691320469926.jpg",
-   "success_url":"/",
+   "logo":"https://t.me/logo_desining/21",
+   "success_url":x@;;;4Z0n1ZAT#9QK71cUKqtQxeN0t8usaARfQqm5JGGwidB7jmxhSoVQ"/",
    "env":{
       "NAME":{
-         "description":"Name of your bot",
+         "description":"𝚂𝙾𝚄𝙻 𝙺𝙸𝙻𝙻𝙴𝚁♠️",
          "required":true
       },
       "PREFIX":{
-         "description":"Prefix of your bot",
+         "description":"𝚂𝙾𝚄𝙻 𝙺𝙸𝙻𝙻𝙴𝚁♠️",
          "required":true
       },
       "MODS":{
